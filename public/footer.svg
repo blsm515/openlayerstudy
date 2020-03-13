@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>编组 7备份 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.70731707 0 0 11 5.70731707 22 20.2926829 22 26 11 20.2926829 0"></polygon>
+    </defs>
+    <g id="最新定稿!!!" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="冠状病毒-最终待定稿灰色素材" transform="translate(-1074.000000, -6911.000000)">
+            <g id="编组-21" transform="translate(51.000000, 6846.000000)">
+                <g id="编组-8">
+                    <g id="编组-33">
+                        <g id="编组-7备份-23" transform="translate(1023.000000, 65.000000)">
+                            <g id="矩形" transform="translate(0.500000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="蒙版" fill="#00BBC8" xlink:href="#path-1"></use>
+                            </g>
+                            <polygon id="路径-2" fill="#A7E0E4" points="15.5 11 21 22 26.5 11 21 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

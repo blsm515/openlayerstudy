@@ -1,0 +1,506 @@
+{
+	"type": "FeatureCollection",
+	"totalFeatures": 45,
+	"features": [{
+		"type": "Feature",
+		"id": "disease.1",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.67766415, 39.79792566]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.2",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.26792097, 40.19363002]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.3",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.56059467, 39.05862712]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.4",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.77537254, 38.63032414]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.5",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.26140896, 37.80227171]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.6",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.38989986, 37.90934746]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.7",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.07581101, 38.48755648]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.8",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.80455245, 38.87302917]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.9",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.76172215, 39.20139478]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.10",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.13291807, 38.944413]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.11",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.48269884, 39.56783178]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.12",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.93601072, 39.29707532]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.13",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.95859104, 37.60715591]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.14",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.43448324, 37.39776334]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.15",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.74919847, 36.56019307]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.16",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.92051966, 36.3508005]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.17",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.24412636, 36.12237224]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.18",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.1870193, 36.54115738]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.19",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.42916096, 37.95693668]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.20",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.76165913, 39.55117555]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.21",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.10668097, 39.4322025]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.22",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.79735104, 39.71773782]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.23",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.97581062, 39.74153243]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.24",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.06304952, 40.1858235]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.25",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.82114565, 40.20552733]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.26",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.58319955, 40.16983541]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.27",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.47612381, 38.05211512]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.28",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.90511619, 35.08254778]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.29",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.26203534, 35.12537808]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.30",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.99077679, 35.35380634]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.31",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.61895449, 35.28242251]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.32",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.14782121, 36.45311732]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.33",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.56184743, 36.06764464]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.34",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.19065151, 37.98073129]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.35",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.91876658, 38.00928482]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.36",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.45385977, 37.68406009]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.37",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.64659611, 38.03384086]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.38",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.40389109, 38.11950145]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.39",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.85360922, 37.35569447]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.40",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.02493041, 37.27717226]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.41",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.11772939, 37.50560051]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.42",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.52461722, 36.99877532]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.43",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.77446063, 37.48418537]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.44",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.32774834, 36.62519994]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}, {
+		"type": "Feature",
+		"id": "disease.45",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.64897557, 36.73227569]
+		},
+		"geometry_name": "the_geom",
+		"properties": {
+			"Id": 0
+		}
+	}],
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::4326"
+		}
+	}
+}
