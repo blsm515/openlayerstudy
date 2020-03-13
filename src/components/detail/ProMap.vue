@@ -199,7 +199,7 @@
 						filter: equalToFilter('F4', '山西省')
 					
 					};		
-				//this.setFeature(map,this.styleFunction,0,true,pro)
+				this.setFeature(map,this.styleFunction,0,true,pro)
 				this.setFeature(map,hospStyle,1,false,hosp)
 				//this.setFeature(map,vectorSource,featureRequest)
 				this.setOverlay(map)
